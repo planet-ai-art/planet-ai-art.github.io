@@ -1,0 +1,7 @@
+<div class=" col-12 col-md-4 col-lg-4 mb-5 gx-3">
+    <div class="card">
+        <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"><img class = "card-img-top" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"></a>      
+        
+        
+    </div>
+</div>
