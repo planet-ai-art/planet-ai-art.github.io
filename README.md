@@ -1,2 +1,2 @@
-# hiriseai.github.io. 
-https://hiriseai.github.io
+# planet-ai-art.github.io. 
+https://planet-ai-art.github.io
