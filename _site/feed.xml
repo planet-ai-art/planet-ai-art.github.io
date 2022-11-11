@@ -2,12 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planet+AI Art</title>
-    <description>inspiring innovators locally and globally through planetary images.</description>
+    <description>Standout Entries for the 2022 Planet+AI Art Challenge</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Nov 2022 13:58:26 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Nov 2022 13:58:26 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Nov 2022 10:33:47 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Nov 2022 10:33:47 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Perseverance on Mars</title>
+        <description>&lt;div&gt;&lt;img src=&quot;/assets/images/skylar_perseverance_on_mars.png&quot; class=&quot;img-fluid&quot; alt=&quot;style&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Perseverance on Mars&lt;/strong&gt;&lt;br /&gt;
+by Skylar V. and Ping W.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This submission is for the 2022 Planet+AI Image Challenge themed on &lt;em&gt;Imagining Mars Sample Return&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Perseverance rover has been gathering samples on Mars since Feb 18, 2021.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 19 Oct 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/10/19/2022-skylar_perseverance_on_mars/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/19/2022-skylar_perseverance_on_mars/</guid>
+        
+        <category>Gallery</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>First Rocket Launch from March</title>
+        <description>&lt;div&gt;&lt;img src=&quot;/assets/images/cynthia_first_rocket_launch_from_mars.png&quot; class=&quot;img-fluid&quot; alt=&quot;style&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;First Rocket Launch from Mars&lt;/strong&gt;&lt;br /&gt;
+by Cynthia V. and Ping W.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This submission is for the 2022 Planet+AI Image Challenge themed on &lt;em&gt;Imagining Mars Sample Return&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Mars Ascent Vehicle will play a key role in the Mars Sample Return mission, launching into the orbit around Mars the samples gathered by the Perseverance rover from the ancient Jezero Crater floor.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 19 Oct 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/10/19/2022-cynthia_first_rocket_launch_from_mars/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/19/2022-cynthia_first_rocket_launch_from_mars/</guid>
+        
+        <category>Gallery</category>
+        
+        
+      </item>
     
       <item>
         <title>Return Capsule</title>
@@ -15,11 +59,11 @@
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;strong&gt;Return Capsule&lt;/strong&gt;&lt;br /&gt;
-by pwang27@utk.edu&lt;br /&gt;&lt;/p&gt;
+by Cynthia V. and Ping W.&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;This submission is for the 2022 Planet+AI Art Challenge themed on &lt;em&gt;Imagining Mars Sample Return&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This submission is for the 2022 Planet+AI Image Challenge themed on &lt;em&gt;Imagining Mars Sample Return&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;NASA’s images used in this artwork: &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;NASA’s images used to create this digital image: &lt;br /&gt;&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Mars Earth Entry System Aeroshell at Entry &lt;a href=&quot;https://mars.nasa.gov/resources/27054/mars-earth-entry-system-aeroshell-at-entry/&quot; target=&quot;_blank&quot;&gt;https://mars.nasa.gov/resources/27054/mars-earth-entry-system-aeroshell-at-entry/&lt;/a&gt;. The Mars Earth Entry System for the Mars Sample Return will contain the orbiting sample inside a disk-shaped vehicle with a heat shield for safe entry through the Earth’s atmosphere.&lt;/li&gt;
 &lt;/ol&gt;
