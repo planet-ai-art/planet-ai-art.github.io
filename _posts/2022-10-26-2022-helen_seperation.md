@@ -9,7 +9,7 @@ tags: [ Gallery ]
 <div><img src="/assets/images/helen_seperation.png" class="img-fluid" alt="style" /></div>
 <br/>
 <br/>
-**Perseverance**<br/>
+**Seperation**<br/>
 by Helen W.<br/>
 
 This submission is for the 2022 Planet+AI Image Challenge themed on *Imagining Mars Sample Return*.   
