@@ -5,9 +5,75 @@
     <description>Standout Entries for the 2022 Planet+AI Art Challenge</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Nov 2022 20:38:41 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Nov 2022 20:38:41 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2022 13:13:37 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2022 13:13:37 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Perseverance</title>
+        <description>&lt;div&gt;&lt;img src=&quot;/assets/images/helen_perseverance.png&quot; class=&quot;img-fluid&quot; alt=&quot;style&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Perseverance&lt;/strong&gt;&lt;br /&gt;
+by Helen W.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This submission is for the 2022 Planet+AI Image Challenge themed on &lt;em&gt;Imagining Mars Sample Return&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Perseverance rover has been collecting samples on Mars.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/10/25/2022-helen_perseverance/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/25/2022-helen_perseverance/</guid>
+        
+        <category>Gallery</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Watching Mars Sample Entry</title>
+        <description>&lt;div&gt;&lt;img src=&quot;/assets/images/helen_girl_watching_Mars_sample_entry.png&quot; class=&quot;img-fluid&quot; alt=&quot;style&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Watching Mars Sample Entry&lt;/strong&gt;&lt;br /&gt;
+by Helen W.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This submission is for the 2022 Planet+AI Image Challenge themed on &lt;em&gt;Imagining Mars Sample Return&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;According to the current plan, the Earth Return Orbiter will release the Earth Entry capsule on an Earth entry trajectory upon approach to Earth. Then, the capsule will land in the Utah desert.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/10/24/2022-helen_girl_watching_Mars_sample_entry/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/24/2022-helen_girl_watching_Mars_sample_entry/</guid>
+        
+        <category>Gallery</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Copter Flying on Mars</title>
+        <description>&lt;div&gt;&lt;img src=&quot;/assets/images/alice_copter.png&quot; class=&quot;img-fluid&quot; alt=&quot;style&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Copter Flying on Mars&lt;/strong&gt;&lt;br /&gt;
+by Alice Z.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This submission is for the 2022 Planet+AI Image Challenge themed on &lt;em&gt;Imagining Mars Sample Return&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;According to the current plan, two Ingenuity-like helicopters will be as backup for the Perseverance to deliver collected samples to the Sample Retrieval Lander.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 23 Oct 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/10/23/2022-alice_copter/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/23/2022-alice_copter/</guid>
+        
+        <category>Gallery</category>
+        
+        
+      </item>
     
       <item>
         <title>Back to Earth</title>
