@@ -12,7 +12,7 @@ tags: [ Gallery ]
 **Return Capsule**<br/>
 by Cynthia V. and Ping W.<br/>
 
-This submission is for the 2022 Planet+AI Image Challenge themed on *Imagining Mars Sample Return*.   
+This submission is for the 2022 Planet+AI Art Challenge themed on *Imagining Mars Sample Return*.   
 
 NASA's images used to create this digital image: <br/>   
 1. Mars Earth Entry System Aeroshell at Entry [https://mars.nasa.gov/resources/27054/mars-earth-entry-system-aeroshell-at-entry/](https://mars.nasa.gov/resources/27054/mars-earth-entry-system-aeroshell-at-entry/){:target="_blank"}. The Mars Earth Entry System for the Mars Sample Return will contain the orbiting sample inside a disk-shaped vehicle with a heat shield for safe entry through the Earth's atmosphere.  

@@ -12,7 +12,7 @@ tags: [ Gallery ]
 **Perseverance**<br/>
 by Helen W.<br/>
 
-This submission is for the 2022 Planet+AI Image Challenge themed on *Imagining Mars Sample Return*.   
+This submission is for the 2022 Planet+AI Art Challenge themed on *Imagining Mars Sample Return*.   
 
 The Perseverance rover has been collecting samples on Mars.
 

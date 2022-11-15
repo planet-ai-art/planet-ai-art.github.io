@@ -12,7 +12,7 @@ tags: [ Gallery ]
 **Seperation**<br/>
 by Helen W.<br/>
 
-This submission is for the 2022 Planet+AI Image Challenge themed on *Imagining Mars Sample Return*.   
+This submission is for the 2022 Planet+AI Art Challenge themed on *Imagining Mars Sample Return*.   
 
 The top part of the Mars Ascent Vehicle opens so that the collected Martian samples can be loaded into the sample return capsule for retrieval by the Earth Return Orbiter.
 

@@ -12,7 +12,7 @@ tags: [ Gallery ]
 **Back to Earth**<br/>
 by Helen W.<br/>
 
-This submission is for the 2022 Planet+AI Image Challenge themed on *Imagining Mars Sample Return*.   
+This submission is for the 2022 Planet+AI Art Challenge themed on *Imagining Mars Sample Return*.   
 
 According to the current plan, the Earth Return Orbiter will release the Earth Entry capsule on an Earth entry trajectory upon approach to Earth. Then, the capsule will land in the Utah desert.
 
